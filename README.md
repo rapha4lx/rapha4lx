@@ -9,4 +9,4 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=rapha4lx&show_icons=true&theme=dark&locale=en" alt="rapha4lx" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rapha4lx&show_icons=true&theme=dark&locale=en&layout=compact" alt="rapha4lx" /></p>
 <br><br>
-<h3><a href="https://ko-fi.com/rapha4lx"> <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="rapha4lx" /></a></h3><br><br>
+<h3><a href="https://ko-fi.com/rapha4lx"> <img aling="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="rapha4lx" /></a></h3><br><br>

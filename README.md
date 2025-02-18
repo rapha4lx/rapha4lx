@@ -1,24 +1,22 @@
 
 <h1 align="center">About Me</h1>
 
+<img align="right" alt="GIF" src="./myoctocat/octocat-1739836899236.png" width="400" height="300" />
 
-
-<img align="right" height="198"  alt="octocat" src="./myoctocat/octocat-1739836899236.png">
-
-<!-- <p align="left"></p> -->
 <p align="left">📝 I'm in my first year studying software engineering at 42 school</p>
 
-<p align="left">At 42, intensive use of C allowed me to develop a strong foundation in programming logic, data structures, and algorithms, while teamwork and peer-to-peer methodology honed my communication and collaboration skills.</p>
+<p align="left">📚 At 42, intensive use of C allowed me to develop a strong foundation in programming logic, data structures, and algorithms, while teamwork and peer-to-peer methodology honed my communication and collaboration skills.</p>
 
+<p align="left">💻 I am developing my skills as a Back-End Developer | Enthuastic about new technologies</p>
 
-<!-- - 📝 I'm in my first year studying software engineering at 42 school
-
-- At 42, intensive use of C allowed me to develop a strong foundation in programming logic, data structures, and algorithms, while teamwork and peer-to-peer methodology honed my communication and collaboration skills. -->
-
+<p align="left">⚡ Fun fact: I 💖 to code 24x7.</p>
+<br>
+<br>
+<br>
 
 <!-- DIV CONNECT -->
+<h1 align="center">Connect With My</h1>
 <div align="center">
-    <h1>Connect With My</h1>
     <p align="center">
         <a target="blank" href="https://www.linkedin.com/in/rafael-ferro-b97091288/">
             <img align="center" style="margin-right: 10px;"
@@ -33,9 +31,9 @@
     </p>
 </div>
 
-<!-- DIV STACK -->
-<div>
-    <h1 align="center">My Skills</h1>
+<!-- DIV SKILLs -->
+<h1 align="center">My Skills</h1>
+<div align="center">
     <p align="center">
         <h3 align="center">Languages</h3>
         <img align="center" style="margin-right: 10px;"
@@ -142,7 +140,7 @@
 
 <!-- DIV GIT STATICS -->
 <div align="center">
-    <h1><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">GitHub Statics</h1>
+    <h1><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="60" height="30" style="margin-right: 10px;">GitHub Statics</h1>
     <img align="center"
         src="https://github-readme-streak-stats.herokuapp.com/?user=rapha4lx&"
     alt="Git Stats" />

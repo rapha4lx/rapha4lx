@@ -141,12 +141,23 @@
 <!-- DIV GIT STATICS -->
 <div align="center">
     <h1><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="60" height="30" style="margin-right: 10px;">GitHub Statics</h1>
-    <img align="center"
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=rapha4lx&show_icons=true&theme=dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=rapha4lx&show_icons=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api?username=rapha4lx&show_icons=true" />
+    </picture>
+    <!-- <img align="center"
         src="https://github-readme-streak-stats.herokuapp.com/?user=rapha4lx&theme=vue&hide_border=true"
     alt="Git Stats" />
     <br>
     <br>
     <img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=rapha4lx&show_icons=true&locale=en&layout=compact"
-    alt="Most Used Languages" />
+    alt="Most Used Languages" /> -->
 </div>

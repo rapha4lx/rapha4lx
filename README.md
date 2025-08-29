@@ -142,7 +142,7 @@
 <div align="center">
     <h1><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="60" height="30" style="margin-right: 10px;">GitHub Statics</h1>
     <img align="center"
-        src="![rapha4lx's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rapha4lx&theme=vue&hide_border=true)"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=rapha4lx&theme=vue&hide_border=true"
     alt="Git Stats" />
     <br>
     <br>

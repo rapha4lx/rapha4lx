@@ -145,8 +145,9 @@
 <img align="center"
     src="https://awesome-github-stats.azurewebsites.net/user-stats/rapha4lx?cardType=level&theme=radical&preferLogin=false"
 />
+
 <img align="center"
-    src="https://awesome-github-stats.azurewebsites.net/user-stats/rapha4lx?cardType=level&theme=radical&preferLogin=false](https://github-readme-streak-stats.herokuapp.com/?user=rapha4lx&theme=radical"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=rapha4lx&theme=radical"
 />
 
 <img align="center"

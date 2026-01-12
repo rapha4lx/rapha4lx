@@ -52,14 +52,6 @@
             src="https://skillicons.dev/icons?i=js"
             title="JS"
         alt="JS"/>
-        <!-- <img align="center" style="margin-right: 10px;"
-            src="https://skillicons.dev/icons?i=react"
-            title="React"
-        alt="React"/> -->
-        <!-- <img align="center" style="margin-right: 10px;"
-            src="https://skillicons.dev/icons?i=nodejs"
-            title="NodeJS"
-        alt="NodeJS"/> -->
         <img align="center" style="margin-right: 10px;"
             src="https://skillicons.dev/icons?i=html"
             title="HTML"
@@ -100,12 +92,12 @@
         alt="my_standard_lib" />
     </a>
     <h3>Rank 1</h3>
-    <a href="" target="blank">
+    <a href="https://github.com/rapha4lx/ft_printf/settings" target="blank">
         <img align="center"
             src="https://github.com/rapha4lx/42-project-badges/raw/main/badges/ft_printfe.png"
         alt="" />
     </a>
-    <a href="" target="blank">
+    <a href="https://github.com/rapha4lx/get_next_line" target="blank">
         <img align="center"
             src="https://github.com/rapha4lx/42-project-badges/raw/main/badges/get_next_linem.png"
         alt="" />
@@ -116,25 +108,36 @@
         alt="" />
     </a>
     <h3>Rank 2</h3>
-    <a href="" target="blank">
+    <a href="https://github.com/rapha4lx/FdF" target="blank">
         <img align="center"
             src="https://github.com/rapha4lx/42-project-badges/raw/main/badges/fdfm.png"
         alt="" />
     </a>
-    <a href="" target="blank">
+    <a href="https://github.com/rapha4lx/Mini_Talk" target="blank">
         <img align="center"
             src="https://github.com/rapha4lx/42-project-badges/raw/main/badges/minitalkn.png"
         alt="" />
     </a>
-    <a href="" target="blank">
+    <a href="https://github.com/rapha4lx/pipex" target="blank">
         <img align="center"
             src="https://github.com/rapha4lx/42-project-badges/raw/main/badges/pipexe.png"
         alt="" />
     </a>
-    <a href="" target="blank">
+    <a href="https://github.com/rapha4lx/push_swap" target="blank">
         <img align="center"
             src="https://github.com/rapha4lx/42-project-badges/raw/main/badges/push_swape.png"
         alt="" />
+    </a>
+    <h3>Rank 3</h3>
+    <a href="https://github.com/rapha4lx/minishell" target="blank">
+        <img align="center"
+            src="https://github.com/rapha4lx/42-project-badges/raw/main/badges/minishelle.png"
+        alt="minishell" />
+    </a>
+    <a href="https://github.com/rapha4lx/Philosophers_ft" target="blank">
+        <img align="center"
+            src="https://github.com/rapha4lx/42-project-badges/raw/main/badges/philosopherse.png"
+        alt="minishell" />
     </a>
 </div>
 
@@ -145,20 +148,4 @@
 <img align="center"
     src="https://awesome-github-stats.azurewebsites.net/user-stats/rapha4lx?cardType=level&theme=radical&preferLogin=false"
 />
-
-<img align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=rapha4lx&theme=radical"
-/>
-
-<img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rapha4lx&layout=compact&theme=radical&langs_count=20"
-/>
-    <!-- <img align="center"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=rapha4lx&theme=vue&hide_border=true"
-    alt="Git Stats" />
-    <br>
-    <br>
-    <img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=rapha4lx&show_icons=true&locale=en&layout=compact"
-    alt="Most Used Languages" /> -->
 </div>

@@ -135,7 +135,7 @@ systems mindset -> C fundamentals -> Unix tools -> backend engineering
 ## GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rapha4lx&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="Rafael Ferro all-time GitHub stats including private contributions" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rapha4lx&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&count_private=true" alt="Rafael Ferro GitHub stats including private contributions" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rapha4lx&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
 </div>
 

@@ -138,7 +138,7 @@ systems mindset -> C fundamentals -> Unix tools -> backend engineering
   <a href="https://bit.ly/gh-readme-profile">
     <img src="https://gh-readme-profile.vercel.app/api?username=rapha4lx&theme=bluloco-dark&hide=repos%2Cprs_merged" alt="GitHub Readme Profile" />
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rapha4lx&layout=compact&theme=github_dark&hide_border=true&hide=C%2B%2B" alt="Most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rapha4lx&layout=compact&theme=github_dark&hide_border=true&hide=C%2B%2B,C" alt="Most used languages" />
 </div>
 
 ## Contact

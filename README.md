@@ -7,8 +7,8 @@
   </p>
 
   <p>
-    <a href="https://www.42lisboa.com/">
-      <img src="https://img.shields.io/badge/42-Lisboa-000000?style=for-the-badge&logo=42&logoColor=white" alt="42 Lisboa" />
+    <a href="https://42.rio/">
+      <img src="https://img.shields.io/badge/42-Rio-000000?style=for-the-badge&logo=42&logoColor=white" alt="42 Rio" />
     </a>
     <img src="https://img.shields.io/badge/Focus-Backend-00babc?style=for-the-badge" alt="Backend focus" />
     <img src="https://img.shields.io/badge/Main-C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C language" />

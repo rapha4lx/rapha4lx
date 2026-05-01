@@ -29,7 +29,13 @@
 
 ## Core
 
-I build low-level projects that make programming fundamentals concrete: memory management, file descriptors, process control, signals, graphics, sorting, and Unix tooling. The 42 peer-to-peer model shaped how I work: read the subject carefully, test assumptions, review with other people, and keep iterating until the behavior is solid.
+Full stack developer with a strong background from 42 Rio, working with technologies and languages such as C, Python, and JavaScript. Throughout my career, I have been involved in high-demand projects, including collaborations with large companies and the development of real-time applications in performance-critical environments.
+
+I have experience building complete solutions, from concept to delivery, with a focus on efficiency, scalability, and clean code. I have contributed to projects used in dynamic and high-visibility contexts, including applications within the sports and corporate sectors.
+
+Currently, I work at a company that provides services to major organizations, dealing with a wide range of challenges and developing solutions that require consistency, responsibility, and adaptability.
+
+I value continuous learning, structured thinking, and building software that solves real-world problems in a direct and effective way.
 
 ```txt
 systems mindset -> C fundamentals -> Unix tools -> backend engineering

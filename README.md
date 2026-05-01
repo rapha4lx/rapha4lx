@@ -18,6 +18,15 @@
 
 ---
 
+## Contact
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/rafael-ferro-b97091288/">
+    <img src="https://img.shields.io/badge/LinkedIn-Rafael%20Ferro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <img src="https://img.shields.io/badge/Discord-raphae__lx-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord raphae_lx" />
+</div>
+
 ## Core
 
 I build low-level projects that make programming fundamentals concrete: memory management, file descriptors, process control, signals, graphics, sorting, and Unix tooling. The 42 peer-to-peer model shaped how I work: read the subject carefully, test assumptions, review with other people, and keep iterating until the behavior is solid.
@@ -139,13 +148,4 @@ systems mindset -> C fundamentals -> Unix tools -> backend engineering
     <img src="https://gh-readme-profile.vercel.app/api?username=rapha4lx&theme=bluloco-dark&hide=repos%2Cprs_merged" alt="GitHub Readme Profile" />
   </a>
   <img src="https://github-readme-stats-h0fyqibir-rapha4lx-4593s-projects.vercel.app/api/top-langs/?username=rapha4lx&layout=compact&include_private=true&hide=c%2B%2B,c,php,c%23,astro,javascript,objective-c%2B%2B,cmake,css,makefile,hack,objective-c,pawn&langs_count=10&theme=github_dark&hide_border=true&border_radius=12&card_width=460&custom_title=Linguagens%20mais%20usadas&show_owner=true" alt="Linguagens mais usadas" />
-</div>
-
-## Contact
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/rafael-ferro-b97091288/">
-    <img src="https://img.shields.io/badge/LinkedIn-Rafael%20Ferro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <img src="https://img.shields.io/badge/Discord-raphae__lx-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord raphae_lx" />
 </div>

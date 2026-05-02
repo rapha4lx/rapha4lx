@@ -37,10 +37,6 @@ Currently, I work at a company that provides services to major organizations, de
 
 I value continuous learning, structured thinking, and building software that solves real-world problems in a direct and effective way.
 
-```txt
-systems mindset -> C fundamentals -> Unix tools -> backend engineering
-```
-
 ## Stack
 
 <div align="center">

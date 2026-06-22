@@ -146,8 +146,6 @@ I value continuous learning, structured thinking, and building software that sol
 ## GitHub
 
 <div align="center">
-  <a href="https://bit.ly/gh-readme-profile">
-    <img src="https://github-readme-stats-dk9pz0vt7-rapha4lx-4593s-projects.vercel.app/api?username=rapha4lx&theme=bluloco-dark&hide=repos%2Cprs_merged" alt="GitHub Readme Profile" />
-  </a>
+  <img src="https://github-readme-stats-dk9pz0vt7-rapha4lx-4593s-projects.vercel.app/api?username=rapha4lx&show_icons=true&theme=radical" alt="GitHub Readme Profile"/>
   <img src="https://github-readme-stats-dk9pz0vt7-rapha4lx-4593s-projects.vercel.app/api/top-langs/?username=rapha4lx&layout=compact&include_private=true&hide=c%2B%2B,c,php,c%23,astro,javascript,objective-c%2B%2B,cmake,css,makefile,hack,objective-c,pawn&langs_count=10&theme=github_dark&hide_border=true&border_radius=12&card_width=460&custom_title=Linguagens%20mais%20usadas&show_owner=true" alt="Linguagens mais usadas" />
 </div>
